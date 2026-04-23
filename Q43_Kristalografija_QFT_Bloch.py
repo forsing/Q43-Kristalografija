@@ -117,7 +117,7 @@ except ImportError:
 # =========================
 # Konfiguracija
 # =========================
-CSV_PATH = Path("/Users/4c/Desktop/GHQ/data/loto7hh_4602_k32.csv")
+CSV_PATH = Path("/data/loto7hh_4602_k32.csv")
 N_NUMBERS = 7
 N_MAX = 39
 
@@ -403,7 +403,7 @@ REZULTAT Q43 (NEXT kombinacija)
 Suma:   133   (S̄=140.51)
 #odd:   5
 Gaps:   [6, 4, 3, 5, 6, 3]
-Predikcija NEXT: [5, 11, 15, 18, 23, 29, 32]
+Predikcija NEXT: [5, 11, x, y, z, 29, 32]
 """
 
 
